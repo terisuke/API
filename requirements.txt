@@ -1,0 +1,4 @@
+opencv-python-headless
+streamlit
+scikit-learn
+py-feat
